@@ -1,0 +1,8 @@
+{
+  "name": "لعبة الجاسوس AH13",
+  "short_name": "الجاسوس",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#090d18"
+}
